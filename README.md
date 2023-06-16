@@ -1,2 +1,3 @@
 # To-Do-list
-Basic To-Do list created in C 
+This is created in C using basic C commands.
+This can be used to add delete and check the tasks in the list you created.
